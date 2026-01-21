@@ -61,3 +61,70 @@ A diary containing all logs related to work performed on the topic: "Review and 
 
 - Made some minor visual changes to the plots.
 - Continued interim and retrospective reports.
+
+### [Week 10]{#week-10}
+
+### *Tuesday 02nd December 2025*
+
+**Tasks Completed:**
+
+- Worked on the interim report and sent off to Supervisor for review.
+- Continued the presentation and did a couple practice runs.
+
+### *Saturday 06th December 2025*
+
+**Tasks Completed:**
+
+- Re-evaluted presentation and completed a couple more practice runs.
+
+### [Week 9]{#week-9}
+
+### *Monday 24th November 2025*
+
+**Tasks Completed:**
+
+- Worked on the interim report.
+- Worked on the presentation.
+
+### *Tuesday 25th November 2025*
+
+**Tasks Completed:**
+
+- Worked on the interim report.
+- Adjusted and compiled current documentation for data simulation code.
+- Continued Conformal Binning implementation.
+
+### *Wednesday 26th November 2025*
+
+**Tasks Completed:**
+
+- Fixed data simulation code and adjusted formatting.
+- Continued Conformal Binning implementation.
+- Worked on dashboard.
+
+### *Thursday 27th November 2025*
+
+**Tasks Completed:**
+
+- Added new binning methodologies for Conformal Binning approach.
+- Worked on dashboard.
+
+### *Sunday 30th November 2025*
+
+**Tasks Completed:**
+
+- Finalised the Conformal Binning functions for simulating and plotting.
+- Worked on presentation and dashboard.
+- Worked on Interim Report.
+
+### [Week 8]{#week-8}
+
+#### *Tuesday 18th November 2025*
+
+**Tasks Completed:**
+
+- Committed data generation code.
+- Fixed EMOS error.
+- Established basic unit tests for the data generation code.
+- Began working on Conformal Binning implementation.
+
