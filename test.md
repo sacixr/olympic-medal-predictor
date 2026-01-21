@@ -36,9 +36,9 @@ A diary containing all logs related to work performed on the topic: "Review and 
 - Began implementing strictly positive data generation model.
 - Continued analysis of thickness and binning on Y values.
     
-## [TERM ONE]{#term-one}
+## [TERM ONE](#term-one)
 
-### [Week 12]{#week-12}
+### [Week 12](#week-12)
 
 ### *Monday 15th December 2025*
 
@@ -62,7 +62,7 @@ A diary containing all logs related to work performed on the topic: "Review and 
 - Made some minor visual changes to the plots.
 - Continued interim and retrospective reports.
 
-### [Week 10]{#week-10}
+### [Week 10](#week-10)
 
 ### *Tuesday 02nd December 2025*
 
@@ -77,7 +77,7 @@ A diary containing all logs related to work performed on the topic: "Review and 
 
 - Re-evaluted presentation and completed a couple more practice runs.
 
-### [Week 9]{#week-9}
+### [Week 9](#week-9)
 
 ### *Monday 24th November 2025*
 
